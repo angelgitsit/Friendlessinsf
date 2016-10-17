@@ -230,7 +230,8 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: black;
+  font-style: infinity;}
 
 @media screen and (min-width: 64em) {
   .site-footer {
